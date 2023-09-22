@@ -82,15 +82,14 @@ h3{
     visibility: hidden;
    width:30%;
    margin-top:-15px;
-   animation: lineShow 2s ease-in 2s forwards;
+   animation: lineShow 2s ease-in 1.5s forwards;
 }
 
 .crops{
     visibility: hidden;
     width:30%;
     margin-top:-30px;
-    animation: lineShow 2s ease-in 4s forwards;
-    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: lineShow 2s ease-in 3.5s forwards;
 }
 
 /* Picture Section */
